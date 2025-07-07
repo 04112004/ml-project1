@@ -1,4 +1,4 @@
-Created various ML projects using different algorithms
+Created various ML projects using different **ALGORITHMS**
 ## 💡 How to Run
 
 1. Clone the repo
